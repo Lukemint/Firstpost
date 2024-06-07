@@ -1,0 +1,8 @@
+object s3 dine
+
+coutitn obkjects
+
+writ8ing obkjectstotal delta 
+pack reused
+
+bracnh main to set up to track origin main
